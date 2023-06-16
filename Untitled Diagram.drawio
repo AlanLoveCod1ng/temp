@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-16T23:07:59.120Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="oFaj_DJfWYvqLV5e70AT" version="21.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-16T23:09:31.037Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="-o9uMVCNychT1yFonpOb" version="21.4.1" type="github">
   <diagram name="Page-1" id="V2lZ7nyOabDfHVRyFV-G">
     <mxGraphModel dx="1026" dy="1675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -120,6 +120,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="100" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Evep3Ppp_aRqOagEn5pP-41" value="LPT --&amp;gt; Deploy Pipeline" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="Evep3Ppp_aRqOagEn5pP-40">
+          <mxGeometry x="190" y="140" width="210" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
